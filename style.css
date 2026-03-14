@@ -37,6 +37,10 @@ footer img{
     height: 40px; /*altura*/
 }
 
+footer img:hover{
+    transform: rotate(20deg); /*aqui é possível realizar a rotação das imagens das redes sociais*/
+}
+
 footer{
     display: flex;
     justify-content: center;
